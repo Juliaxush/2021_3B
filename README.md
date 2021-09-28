@@ -25,4 +25,9 @@
 
 ![fig](nkust.jpg "美麗的海洋")
 
-[![change your clothes](https://i.ytimg.com/an_webp/kxWUcCUfDuE/mqdefault_6s.webp?du=3000&sqp=CPn8yooG&rs=AOn4CLAozmi_toZ39T0DeTc22Yd1a2T0oQ)(https://www.youtube.com/watch?v=kxWUcCUfDuE "change your clothes")
+- [ ] todo list
+- [x] done 1
+- [ ] unfinished
+- [x] done 2 
+
+![change your clothes](https://i.ytimg.com/an_webp/kxWUcCUfDuE/mqdefault_6s.webp?du=3000&sqp=CPn8yooG&rs=AOn4CLAozmi_toZ39T0DeTc22Yd1a2T0oQ)(https://www.youtube.com/watch?v=kxWUcCUfDuE "change your clothes")

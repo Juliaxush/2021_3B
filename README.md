@@ -35,4 +35,4 @@ str="This is a strring"
 print(str)
 ```
 
-![change your clothes](https://i.ytimg.com/an_webp/kxWUcCUfDuE/mqdefault_6s.webp?du=3000&sqp=CPn8yooG&rs=AOn4CLAozmi_toZ39T0DeTc22Yd1a2T0oQ)(https://www.youtube.com/watch?v=kxWUcCUfDuE "change your clothes")
+[![change your clothes](https://i.ytimg.com/an_webp/kxWUcCUfDuE/mqdefault_6s.webp?du=3000&sqp=CPn8yooG&rs=AOn4CLAozmi_toZ39T0DeTc22Yd1a2T0oQ)](https://www.youtube.com/watch?v=kxWUcCUfDuE "change your clothes")

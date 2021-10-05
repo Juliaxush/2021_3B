@@ -37,9 +37,14 @@ print s
 ```
 
 |Tables|Are|Cool|
-|---|---|---|
-|col 3 is|rught-aligend|$1600|
+|:---|---|---:|
+|col 3 is|right-aligend|$1600|
 |col 2 is|centered|$12|
 |zebra stripes|are neat|$1|
+
+|Marldown|Less|Pretty|
+|:---|:---|:---|
+|*still*|`renders`|**nicely**|
+|1|2|3|
 
 [![實作影片](https://i.ytimg.com/an_webp/sSm2dRarhPo/mqdefault_6s.webp?du=3000&sqp=COKx74oG&rs=AOn4CLD_6rLObDPenZx5aWWPhM2SiQGECQ)](https://www.youtube.com/watch?v=sSm2dRarhPo "實作影片")
